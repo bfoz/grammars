@@ -12,7 +12,7 @@ Each grammar directory can optionally contain a *README.md* providing informatio
 
 Files for a particular grammar should be named using the same convention as the file's enclosing directory, and should use the conventional extension for that grammar format, unless otherwise noted in the table below. For example, the BNF file describing BNF itself is named *bnf.bnf*.
 
-| Extension | Grammar format                           |
-|-----------|------------------------------------------|
-| bnf       | Backus–Naur form or Backus normal Format |
-| ebnf      | Extended Backus-Normal Format            |
+| Extension | Grammar format                                     |
+|-----------|----------------------------------------------------|
+| bnf       | Backus–Naur form or Backus normal Format           |
+| ebnf      | Extended Backus-Normal Format (or the W3C variant) |
