@@ -16,3 +16,4 @@ Files for a particular grammar should be named using the same convention as the 
 |-----------|----------------------------------------------------|
 | bnf       | Backus–Naur form or Backus normal Format           |
 | ebnf      | Extended Backus-Normal Format (or the W3C, or Python, variants) |
+| y         | YACC                                               |
